@@ -1,0 +1,20 @@
+# Virtual Environment
+.venv/
+
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Database
+*.db
+database/*.db
+
+# Logs
+logs/
+
+# Generated Files
+output/
+transcripts/

@@ -1,0 +1,5 @@
+class InterviewError(Exception): """Base exception for interview agent."""
+class GeminiError(InterviewError): """Error during Gemini API communication."""
+class ValidationError(InterviewError): """Validation error in data."""
+class DatabaseError(InterviewError): """Database-related error."""
+class ConfigurationError(InterviewError): """Configuration error."""
