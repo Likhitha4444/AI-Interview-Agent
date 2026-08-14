@@ -22,7 +22,7 @@ An AI-powered interview system for the Rooman Technologies 24-Hour AI Challenge.
 Displays the candidate's overall score, percentage, hiring recommendation, fit score, and AI-generated interviewer notes.
 
 <p align="center">
-  <img src="screenshots/ai-interview-results.png" width="900">
+  <img src="Screenshots/ai-interview-results.png" width="900">
 </p>
 
 ### 📊 AI Feedback & Performance Analysis
@@ -30,7 +30,7 @@ Displays the candidate's overall score, percentage, hiring recommendation, fit s
 Provides detailed strengths, areas for improvement, technical feedback, and recommendations based on the candidate's responses.
 
 <p align="center">
-  <img src="screenshots/ai-interview-feedback.png" width="900">
+  <img src="Screenshots/ai-interview-feedback.png" width="900">
 </p>
 
 ### 🔍 Question Breakdown
@@ -38,5 +38,5 @@ Provides detailed strengths, areas for improvement, technical feedback, and reco
 Shows individual interview questions, scores, and detailed evaluation of the candidate's answers.
 
 <p align="center">
-  <img src="screenshots/ai-interview-questions.png" width="900">
+  <img src="Screenshots/ai-interview-questions.png" width="900">
 </p>
